@@ -40,13 +40,13 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalnathG&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalnath13&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalnathG&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalnath13&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamalnathG&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamalnath13&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
