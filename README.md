@@ -4,6 +4,13 @@
   <b>My Name is KAMALNATH G</b>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=435&lines=Web+Developer+💻;Ui/Ux+designer;MERN+stack+learner" alt="Typing SVG" />
+  </a>
+</p>
+
+
 - 🛠️ I’m currently working on Mern Stack Project (reserved all rights)
 - 🌱 I’m currently learning Full-Stack Development
 - 💬 Ask me about Mern and Full Stack Development
