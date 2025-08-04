@@ -11,9 +11,8 @@
 </p>
 
 
-- 🛠️ I’m currently working on Mern Stack Project (reserved all rights)
-- 🌱 I’m currently learning Full-Stack Development
-- 💬 Ask me about Mern and Full Stack Development
+- 🛠️ I’m currently working on Full Stack Project (reserved all rights)
+- 🌱 Full Stack Developer | Cloud & DevOps Enthusiast
 - 📬 How to reach me: [kamalnath8525@gmail.com](mailto:yourmail@example.com)
 - 😍 My mini Projects:
 - ⚡ All of my projects are available at :
@@ -21,7 +20,6 @@
 
 ## 📞 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kamalnath-g-008a85369/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/)
 
 ---
 
