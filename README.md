@@ -16,7 +16,8 @@
 - 📬 How to reach me: [kamalnath8525@gmail.com](mailto:yourmail@example.com)
 - 😍 My mini Projects:
 - ⚡ All of my projects are available at :
-- 📄 Know more about me at:
+- 📄 Know more about me at :
+- 😍look my resume at : https://github.com/kamalnath13/My-resume
 
 ## 📞 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kamalnath-g-008a85369/)
