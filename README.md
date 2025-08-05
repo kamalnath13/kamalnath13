@@ -14,7 +14,7 @@
 - 🛠️ I’m currently working on Full Stack Project (reserved all rights)
 - 🌱 Full Stack Developer | Cloud & DevOps Enthusiast
 - 📬 How to reach me: [kamalnath8525@gmail.com](mailto:yourmail@example.com)
-- 😍 My mini Projects:
+- 😍 My mini Projects:https://github.com/kamalnath13/My-mini-projects/tree/main
 - ⚡ All of my projects are available at :
 - 📄 Know more about me at :
 - 😍look my resume at : https://github.com/kamalnath13/My-resume
