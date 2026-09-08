@@ -30,4 +30,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Mongodb" width="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8cxgwkzgZl9Z7OFj04lWIEZJCD3QeGH_YhdVcjcRAoA&s=10" alt="Mongodb" width="40"/>
